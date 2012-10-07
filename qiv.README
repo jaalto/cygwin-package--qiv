@@ -1,0 +1,70 @@
+qiv
+------------------------------------------
+
+Quick image viewer for X
+
+A very small and pretty fast GDK/Imlib image viewer. Features include
+zoom, maxpect, scale down, fullscreen, brightness/contrast/gamma
+correction, slideshow, pan with keyboard and mouse, rotate left/right,
+flip, delete (move to .qiv-trash/), jump to image x, jump
+forward/backward x images, filename filter, and you can use qiv to set
+your X11-Desktop background.
+
+Runtime requirements:
+  gdk-2.0
+  imlib2
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://freecode.com/projects/qiv
+  http://spiegl.de/qiv
+  http://packages.debian.org/qiv
+
+Canonical download:
+  See above
+
+Version control repository:
+  hg clone http://bitbucket.org/ciberandy/qiv
+  http://bitbucket.org/ciberandy/qiv
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Andy Spiegl <qiv.andy@spiegl.de>
+  Bugs: https://bitbucket.org/ciberandy/qiv/issues
+
+License:
+  GPL-2
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack qiv-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./qiv*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 2.2.4-1 -----
+- Initial release 2012-10-07 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
