@@ -11,11 +11,28 @@ forward/backward x images, filename filter, and you can use qiv to set
 your X11-Desktop background.
 
 Runtime requirements:
-  gdk-2.0
-  imlib2
+  libpng14
+  zlib0
+  libImlib2_1
+  libX11_6
+  libXinerama1
+  libgdk_pixbuf2.0_0
+  libgtk2.0_0
+  libglib2.0_0
+  libMagickCore5
+  libpango1.0_0
 
 Build requirements:
-  cygwin
+  libpng-devel
+  zlib-devel
+  libImlib-devel
+  libX11-devel
+  libXinerama-devel
+  libgdk_pixbuf2.0-devel
+  libgtk2.0-devel
+  libglib2.0-devel
+  libMagick-devel
+  libpango1.0-devel
 
 Canonical homepage:
   http://freecode.com/projects/qiv
