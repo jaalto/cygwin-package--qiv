@@ -8,3 +8,5 @@
 # --exclude=cygbuild-no-docdir-guess
 
 --exclude=README.INSTALL
+--include=qiv-command.example
+--include=intro.jpg
