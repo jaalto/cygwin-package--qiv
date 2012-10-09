@@ -6,4 +6,4 @@ flip, delete (move to .qiv-trash/), jump to image x, jump
 forward/backward x images, filename filter, and you can use qiv to set
 your X11-Desktop background."
 category: Graphics
-requires: libpng14 zlib0 libImlib2_1 libX11_6 libXinerama1 libgdk_pixbuf2.0_0 libgtk2.0_0 libglib2.0_0 libMagickCore5 libpango1.0_0
+requires: file libpng14 zlib0 libImlib2_1 libX11_6 libXinerama1 libgdk_pixbuf2.0_0 libgtk2.0_0 libglib2.0_0 libpango1.0_0
