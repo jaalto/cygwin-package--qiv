@@ -23,10 +23,10 @@ Runtime requirements:
   libpango1.0_0
 
 Build requirements:
-  file
+  file-devel
   libpng-devel
   zlib-devel
-  libImlib-devel
+  libImlib2-devel
   libX11-devel
   libXinerama-devel
   libgdk_pixbuf2.0-devel
@@ -80,8 +80,12 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 2.2.4-2 -----
+- New release 2014-06-12 Jari Aalto
+- Compile with imlib2
+
 ----- version 2.2.4-1 -----
 - Initial release 2012-10-07 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2012-2014 Jari Aalto; Licensed under GPL v2 or later
