@@ -12,7 +12,7 @@ your X11-Desktop background.
 
 Runtime requirements:
   file
-  libpng14
+  libpng15
   zlib0
   libImlib2_1
   libX11_6
