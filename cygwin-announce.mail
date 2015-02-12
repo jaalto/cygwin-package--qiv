@@ -1,11 +1,11 @@
-Subject: Updated: qiv 2.2.4-3 -- Quick image viewer for X
+Subject: Updated: qiv 2.3.1-1 -- Quick image viewer for X
 To: cygwin-announce@cygwin.com
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/qiv
+Homepage: http://spiegl.de/qiv
 License : GPL
 
 A very small and pretty fast GDK/Imlib image viewer. Features include
@@ -18,7 +18,6 @@ your X11-Desktop background.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-Cygwin: compiled with libpng16
 See homepage for release notes.
 
 INSTALL OR UPGRADE NOTES

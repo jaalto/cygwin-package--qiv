@@ -16,12 +16,16 @@ Runtime requirements:
   zlib0
   libImlib2_1
   libX11_6
-  libXinerama1
+  libXext6
+  libexif12
   libgtk2.0_0
   libgdk_pixbuf2.0_0
   libglib2.0_0
   libglib2.0_0
+  libjpeg8
+  liblcms2_2
   libpango1.0_0
+  libtiff6
 
 Build requirements:
   file-devel
@@ -79,6 +83,9 @@ Files included in the binary distribution:
 ------------------------------------------
 
 Port Notes:
+
+----- version 2.3.1-1 -----
+- New upstream release 2015-02-12 Jari Aalto
 
 ----- version 2.2.4-3 -----
 - New release 2015-02-12 Jari Aalto
