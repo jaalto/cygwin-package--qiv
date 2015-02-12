@@ -14,11 +14,12 @@ Runtime requirements:
   file
   libpng15
   zlib0
-  libImlib2_1
+  libImlib2
   libX11_6
   libXinerama1
-  libgdk_pixbuf2.0_0
   libgtk2.0_0
+  libgdk_pixbuf2.0_0
+  libglib2.0_0
   libglib2.0_0
   libpango1.0_0
 
@@ -35,9 +36,8 @@ Build requirements:
   libpango1.0-devel
 
 Canonical homepage:
-  http://freecode.com/projects/qiv
-  http://spiegl.de/qiv
   http://packages.debian.org/qiv
+  http://spiegl.de/qiv
 
 Canonical download:
   See above
@@ -80,6 +80,10 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 2.2.4-3 -----
+- New release 2015-02-12 Jari Aalto
+- Compile with libpng16
+
 ----- version 2.2.4-2 -----
 - New release 2014-06-12 Jari Aalto
 - Compile with imlib2
@@ -88,4 +92,4 @@ Port Notes:
 - Initial release 2012-10-07 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012-2014 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2012-2015 Jari Aalto; Licensed under GPL v2 or later
