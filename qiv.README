@@ -14,7 +14,7 @@ Runtime requirements:
   file
   libpng15
   zlib0
-  libImlib2
+  libImlib2_1
   libX11_6
   libXinerama1
   libgtk2.0_0
